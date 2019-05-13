@@ -13,6 +13,7 @@
 *.a
 *~
 *txt*
+!CMakeLists.txt
 *conf
 *buffer
 *model
